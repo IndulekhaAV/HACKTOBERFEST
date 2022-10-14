@@ -1,3 +1,5 @@
 A=3
 B=5
 print C=A+B
+
+print C=A-B
