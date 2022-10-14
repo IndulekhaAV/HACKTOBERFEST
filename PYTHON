@@ -3,3 +3,5 @@ B=5
 print C=A+B
 
 print C=A-B
+
+print C=A/B
